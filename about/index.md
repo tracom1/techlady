@@ -1,25 +1,22 @@
 ---
 layout: page
-title: About the Jekyll Theme
-excerpt: "So Simple is a responsive Jekyll theme for your words and images."
-modified: 2014-08-08T19:44:38.564948-04:00
+title: About the Blog
+excerpt: "What am I doing here?"
+modified: 2017-01-14T19:44:38.564948-04:00
 image:
-  feature: so-simple-sample-image-4.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: Banner.jpg
 ---
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the follow up to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes.com).
+Looking for a community where you can discuss tech and other life issues?  You've come to the right place.
 
-## So Simple Theme is all about:
+## Things this blog should be used for:
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations.
-* Optional large feature images for posts and pages.
-* [Custom 404 page]({{ site.url }}/404.html) to get you started.
-* [Simple site search](https://github.com/christian-fei/Simple-Jekyll-Search)
-* Support for Disqus Comments
+* Sharing tech knowledge
+* Sharing life experiences related to tech
+* Getting support from other people in the tech realm (male or female)
+* Learning markdown and static site hosting (ok, that's mostly me)
+
+I rather reluctantly entered the tech world back in 2011.  When I am not on the command line, I am trying to force feed sugar down my co-workers throats, avoiding gluten, and trying to convince my cat I am better than my husband.
 
 <a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install So Simple Theme</a>
 
