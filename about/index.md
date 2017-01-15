@@ -10,7 +10,7 @@ image:
 
 
 
-## So This Blog is all about:
+## This Blog is all about....
 
 * Words and Stuff
 * Sharing Life Experience in Tech
