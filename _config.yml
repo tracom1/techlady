@@ -5,8 +5,8 @@ locale: en_US
 description: Talk Tech to Me
 logo: Logomakr_2PFSRh.png
 search: true
-url: https://tracom1.github.io/techlady
-#url: http://localhost:4000
+#url: https://tracom1.github.io/techlady
+url: http://localhost:4000
 
 # Jekyll configuration
 
