@@ -6,6 +6,7 @@ description: Talk Tech to Me
 logo: Logomakr_2PFSRh.png
 search: true
 url: https://tracom1.github.io/techlady
+#url: http://localhost:4000
 
 # Jekyll configuration
 
@@ -33,26 +34,28 @@ mathjax: true
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", ".less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
 
+#Comments
+comments: true
 
 # Site owner
 owner:
-  name: Tracy Comstock Roesler
+  name: Tracy Roesler
   avatar: tracy_bio.jpg
   email: roesler.tracy@gmail.com
-  disqus-shortname:
+  disqus-shortname: https-techlady-ninja
   twitter: #username
   facebook: #username
-  github: #username
+  github: tracom1
   stackexchange: #http://stackoverflow.com/users/123456/username
-  linkedin: tracycomstock
-  instagram: #username
+  linkedin: tracy-roesler
+  instagram: onedncr
   flickr: #username
   tumblr: #username
   pinterest: #username
   weibo: #userid
   google:
     plus: #username
-    analytics:
+    analytics: UA-90435444-1
     verify:
     ad-client:
     ad-slot:
